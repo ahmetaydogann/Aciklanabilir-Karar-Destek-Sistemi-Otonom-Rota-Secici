@@ -5,7 +5,7 @@ Bu proje, görev kritik sistemler (İHA, Otonom Kara Araçları) için tasarlanm
 ## ⚙️ Sistem Şeması ve Donanım
 Sistemin Proteus üzerindeki genel donanım mimarisi ve bağlantı şeması aşağıdadır:
 
-![Sistem Şeması](gorseller/sema.png)<img width="907" height="677" alt="şema" src="https://github.com/user-attachments/assets/3b44f08e-fce4-467a-b585-4cae442cd282" />
+<img width="907" height="677" alt="şema" src="https://github.com/user-attachments/assets/3b44f08e-fce4-467a-b585-4cae442cd282" />
 
 *(Not: Buraya sistemin genel bağlantı şemasının ekran görüntüsünü ekleyin)*
 
@@ -26,7 +26,7 @@ Ana rotada engel tespit edildiğinde, sistem **Alternatif Rota** kararı verir (
 
 ### 3. Durum: Kritik Engel (Acil Durum Rotası)
 Ana ve Alternatif rotalar kapalı olduğunda, sistem görev sürekliliği için **Acil Durum Rotasına** (Kırmızı LED) geçer.
-![Acil Durum Rotası Durumu](gorseller/durum_3_acil_rota.png)<img width="1917" height="1017" alt="çalışırken3" src="https://github.com/user-attachments/assets/c46baec8-61bb-4b22-95c8-2271d3fb4eb1" />
+<img width="1917" height="1017" alt="çalışırken3" src="https://github.com/user-attachments/assets/c46baec8-61bb-4b22-95c8-2271d3fb4eb1" />
 
 
 *(Tüm yollar kapandığında ise sistem FATAL ERROR vererek operasyonu durdurur ve donanımı güvenli moda alır.)*

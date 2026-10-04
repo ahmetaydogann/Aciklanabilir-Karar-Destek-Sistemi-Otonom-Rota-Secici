@@ -16,7 +16,7 @@ Otonom sistemlerin aldığı kararların arkasındaki nedenlerin (Gerekçelendir
 
 ### 1. Durum: Normal Operasyon (Ana Rota)
 Tüm yollar açık. Python **Ana Rota** kararı verir ve donanımdaki yeşil LED'i yakar.
-![Ana Rota Durumu](gorseller/durum_1_ana_rota.png)<img width="1917" height="1017" alt="çalışırken" src="https://github.com/user-attachments/assets/495c41e4-b602-49a3-82dc-16c8cc53aa0c" />
+(gorseller/durum_1_ana_rota.png)<img width="1917" height="1017" alt="çalışırken" src="https://github.com/user-attachments/assets/495c41e4-b602-49a3-82dc-16c8cc53aa0c" />
 
 
 ### 2. Durum: Engel Tespiti (Alternatif Rota)

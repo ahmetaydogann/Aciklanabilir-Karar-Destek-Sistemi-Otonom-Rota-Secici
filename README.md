@@ -1,7 +1,6 @@
 # Açıklanabilir Karar Destek Sistemi: Otonom Rota Seçici
 
-Bu proje, görev kritik sistemler (İHA, Otonom Kara Araçları) için tasarlanmış, **Donanım-Yazılım Eş-Simülasyonu (Co-Simulation)** tabanlı bir açıklanabilir karar destek prototipidir. Sayzek ATP (Araştırma ve Teknoloji Programı) hedefleri doğrultusunda Ahali takımı tarafından geliştirilmiştir.
-
+Bu proje, görev kritik sistemler (İHA, Otonom Kara Araçları) için tasarlanmış, **Donanım-Yazılım Eş-Simülasyonu (Co-Simulation)** tabanlı bir açıklanabilir karar destek prototipidir. 
 ## ⚙️ Sistem Şeması ve Donanım
 Sistemin Proteus üzerindeki genel donanım mimarisi ve bağlantı şeması aşağıdadır:
 
